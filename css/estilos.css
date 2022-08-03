@@ -43,5 +43,14 @@ body{
 #post{
     background: white;
     padding: 1em;
+<<<<<<< HEAD
     height:100%;
+=======
+}
+#footer{
+    background:rgb(80, 80, 80);
+    color: white;
+    text-align: center;
+    padding: 0.5em;
+>>>>>>> footer
 }
