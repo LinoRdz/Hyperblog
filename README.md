@@ -9,5 +9,6 @@ Blog hecho con [Git](https://git-scm.com/downloads) y [Github](https://github.co
 * Test2
 * Test3
 * TestX
+* Creado por Lino
 
 Como recordatorio: **Este readme.md es una prueba**
