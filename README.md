@@ -10,5 +10,6 @@ Blog hecho con [Git](https://git-scm.com/downloads) y [Github](https://github.co
 * Test3
 * TestX
 * Creado por Lino
+* Incluye ejemplos en Windows
 
 Como recordatorio: **Este readme.md es una prueba**
